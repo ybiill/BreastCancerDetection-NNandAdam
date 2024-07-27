@@ -1,4 +1,4 @@
-# Improving Breast Cancer Detection in Ultrasound with GLCM Feature Extraction and ADAM Optimization
+# Breast Cancer Detection GLCM and ADAM Optimization
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
